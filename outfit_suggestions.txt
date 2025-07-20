@@ -1,0 +1,15 @@
+Date: Sun 20 Jul
+City: London (LON)
+Temperature: 22°C
+Suggested outfit:['a nice t-shirt', 'some loose trousers', '👟']
+
+Date: Sun 20 Jul
+City: Paris (PAR)
+Temperature: 24°C
+Suggested outfit:["some shorts or a skirt, whatever you're feeling", 'a sleeveless top', '🩴']
+
+Date: Sun 20 Jul
+City: New York (NEW)
+Temperature: 30°C
+Suggested outfit:["some shorts or a skirt, whatever you're feeling", 'a sleeveless top', '🩴']
+
