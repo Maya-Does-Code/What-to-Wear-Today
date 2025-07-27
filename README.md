@@ -6,7 +6,7 @@
 ## 📝 Project Description
 W2W2 is a Python console app that suggests outfits based on your city’s weather using the OpenWeatherMap API. 
 
-As a first-time Python user, this project taught me how to:
+This project demonstrates how to:
 - Integrate a real-time API
 - Transform data into something user-friendly 
 - Apply core Python concepts such as functions, conditionals, loops, dictionaries and file handling
