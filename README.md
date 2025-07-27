@@ -19,7 +19,7 @@ This simple tool is designed for users who need a quick decision on what to wear
 - Weather data is fetched using the OpenWeatherMap API
 - Outfit suggestions are based on temperature thresholds and rain conditions 
 - Automatically logs the date, city, temperature and outfit suggestion to a local text file for record-keeping and any future analysis
-- Emojis for funsies :)
+- Emojis for fun 😄
 
 ## ⚙️ Setup Instructions
 1. Clone or download the project folder. This will include the Python file, the example .env file and the text file where the entries are saved 
